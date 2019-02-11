@@ -1,5 +1,7 @@
-Capstone Project 2 - Forecasting Anonymous Product demand
-In this project, the data for an anonymous product was provided by Southern Illinois University Edwardsville. The data includes five years demand data for the product. In this capstone, traditional time series forecasting technqiues were compared with deep learning time series forecasting. The traditional and deep learning techniques/ algorithms have be applied in the following order below.
+Capstone Project 2 - Forecasting Anonymous Product demand 
+
+In this project, the data for an anonymous product was provided by Southern Illinois University Edwardsville. The data includes five years demand data for the product. In this capstone, traditional time series forecasting technqiues were compared with deep learning time series forecasting. The traditional and deep learning techniques/ algorithms have be applied in the following order below. 
+
 1. Simple Exponential Smoothing
 2. Holt's Linear Trend
 3. Holt's Winter Method
