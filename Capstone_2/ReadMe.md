@@ -12,16 +12,14 @@ The code for the algorithms is provided in the notebook below:
 
 
 
-Results:
-  MODEL/ ALGORITHM                       RMSE 
-  Simple Exponential Smoothing           24.81
-  (SES)
-  Holt's Linear Trend (HLT)              19.61
-  Holt’s Winter Method                   20.09
-  ARIMA                                  19.45
-  SARIMA                                 30.56
-  LSTM                                   26.9
-  CNN-LSTM                               18.16
+Results: The RMSE for 
+  Simple Exponential Smoothing is 24.81,
+  Holt's Linear Trend is 19.61,
+  Holt’s Winter Method is 20.09,
+  ARIMA is 19.45,
+  SARIMA is 30.56,
+  LSTM is 26.9,
+  CNN-LSTM is 18.16.
 
 
   
