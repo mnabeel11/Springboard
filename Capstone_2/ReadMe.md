@@ -1,2 +1,34 @@
 Capstone Project 2 - Forecasting Anonymous Product demand
-In this project, the data for an anonymous product was provided by Southern Illinois University Edwardsville. The data includes five years demand data for the product. 
+In this project, the data for an anonymous product was provided by Southern Illinois University Edwardsville. The data includes five years demand data for the product. In this capstone, traditional time series forecasting technqiues were compared with deep learning time series forecasting. The traditional and deep learning techniques/ algorithms have be applied in the following order below.
+1. Simple Exponential Smoothing
+2. Holt's Linear Trend
+3. Holt's Winter Method
+4. ARIMA
+5. SARIMA
+6. FBProphet 
+7. LSTM nueral network
+8. ConvLSTM neural network
+The code for the algorithms is provided in the notebook below:
+
+
+
+Results:
+  MODEL/ ALGORITHM                       RMSE 
+  Simple Exponential Smoothing           24.81
+  (SES)
+  Holt's Linear Trend (HLT)              19.61
+  Holt’s Winter Method                   20.09
+  ARIMA                                  19.45
+  SARIMA                                 30.56
+  LSTM                                   26.9
+  CNN-LSTM                               18.16
+
+
+  
+  
+  
+
+
+  
+ 
+
