@@ -7,8 +7,12 @@ In this project, the data for an anonymous product was provided by Southern Illi
 5. SARIMA
 6. FBProphet 
 7. LSTM nueral network
-8. ConvLSTM neural network
-The code for the algorithms is provided in the notebook below:
+8. ConvLSTM neural network 
+
+
+The code for the algorithms is provided in the notebook below: 
+
+https://github.com/mnabeel11/Springboard/blob/master/Capstone_2/Capstone_2_In_Depth_Analysis_ML.ipynb
 
 
 
